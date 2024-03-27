@@ -1,2 +1,5 @@
 # code_refactor
-A website accessible to business with optimized code.
+
+## Description
+
+A website originally with outdated "div" based code, optimized with modern HTML naming conventions and layout. 

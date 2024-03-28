@@ -1,8 +1,15 @@
-# CODE_REFACTOR
+# HTML - CODE REFACTOR
 
 ## Description
 
-Web accessibility code refactor in order to add modern HTML syntax to outdated "div" approach, for a well organized structure, code readability and design experience without altering the code's external behavior.
+Web accessibility code refactor in order to add modern HTML syntax to outdated "div" without altering the code's external behavior. 
+
+
+- For a well organized structure and code readability.
+- Improving developer experience.
+- Minimizing complexities.
+
+ 
 
 
 ## Example
@@ -13,4 +20,4 @@ Web accessibility code refactor in order to add modern HTML syntax to outdated "
 
  ## Links
 
-For access to deployed website -- <a href=“https://parryprogramming.github.io/code_refactor/”>Click Here</a>.
+For access to deployed website [Click Here](https://parryprogramming.github.io/code_refactor/)
